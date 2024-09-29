@@ -15,7 +15,7 @@ I am a current Cyber Security graduate, equipped with a robust foundation in var
 Find my resume right [here](./resume.pdf).
 
 ## 💼 Experience
-- **Web Development Intern (July 2021 - Oct 2021)** - Chennai, India
+- **Web Development Intern (June 2021 - December 2021)** - Chennai, India
 
 ## 🎓 Education
 - **Masters of Engineering, Information Systems Security** (2022-2024)
@@ -25,5 +25,5 @@ Find my resume right [here](./resume.pdf).
 
 ## ☎️ Contact
 - **Email**: [prathiksha99.sivakumar@gmail.com](mailto:prathiksha99.sivakumar@gmail.com)
-- **LinkedIn**: [linkedin.com/in/prathiksha-sivakumar-463883204/](https://www.linkedin.com/in/prathiksha-sivakumar-463883204/)
+- **LinkedIn**: [linkedin.com/in/prathiksha-sivakumar-463883204/](https://www.linkedin.com/in/prathiksha-sivakumar)
    
