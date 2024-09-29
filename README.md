@@ -15,7 +15,7 @@ I am a current Cyber Security graduate, equipped with a robust foundation in var
 Find my resume right [here](./resume.pdf).
 
 ## 💼 Experience
-- **Web Development Intern (June 2021 - December 2021)** - Chennai, India
+- **Web Security Intern (June 2021 - December 2021)** - Chennai, India
 
 ## 🎓 Education
 - **Masters of Engineering, Information Systems Security** (2022-2024)
