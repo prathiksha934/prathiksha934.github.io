@@ -5,9 +5,9 @@ I am a current Cyber Security graduate, equipped with a robust foundation in var
 ## 📈 Skills
 - **Operating Systems**: Windows, Linux, Kali Linux, MacOS
 - **Programming**: Python, C++, Bash Scripting, JavaScript, HTML, CSS, PHP
--**Applications**: Microsoft Office,  Burp Suite, Wireshark, Nmap, MobSF, Drozer, Splunk, Microsoft Office, Google Docs, Google Sheets
--**Methodologies**: Intrusion Detection and Response, Linux Security, Malware Analysis, Risk Assessment, Threat Modelling, Vulnerability Assessment and Penetration Testing (VAPT)
--**Certifications**: CompTIA Security+  
+- **Applications**: Microsoft Office,  Burp Suite, Wireshark, Nmap, MobSF, Drozer, Splunk, Microsoft Office, Google Docs, Google Sheets
+- **Methodologies**: Intrusion Detection and Response, Linux Security, Malware Analysis, Risk Assessment, Threat Modelling, Vulnerability Assessment and Penetration Testing (VAPT)
+- **Certifications**: CompTIA Security+  
 
 ## 🔨 Projects 
 
