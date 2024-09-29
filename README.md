@@ -25,5 +25,5 @@ Find my resume right [here](./resume.pdf).
 
 ## ☎️ Contact
 - **Email**: [prathiksha99.sivakumar@gmail.com](mailto:prathiksha99.sivakumar@gmail.com)
-- **LinkedIn**: [linkedin.com/in/prathiksha-sivakumar-463883204/](https://www.linkedin.com/in/prathiksha-sivakumar)
+- **LinkedIn**: [linkedin.com/in/prathiksha-sivakumar](linkedin.com/in/prathiksha-sivakumar-463883204)
    
